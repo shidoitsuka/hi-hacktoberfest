@@ -84,6 +84,3 @@
 
 </p>
 
-------------
-<!-- <p align="center">This README file is generated automatically!</br>Last updated: Friday, 11 September, 14:23 GMT+8</p> -->
-<p align="center"><img src="https://github.com/SharifPoetra/SharifPoetra/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/></td></p>

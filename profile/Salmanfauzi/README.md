@@ -1,7 +1,2 @@
-#HI NAMA SAYA SALMAN FAUZI
-
-#Asal dari Tegal Jawa Tengah
-
-#Saya Masih seorang pelajar SMK
-
-#yang ingin terjun ke dunia komputer
+<h2 align="center"> Hi, My name is Salman Fauzi</h2>
+<p align="center">I live in <b>Indonesia</b> and i love programming</p
